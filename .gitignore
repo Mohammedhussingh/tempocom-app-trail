@@ -1,3 +1,5 @@
 /.app.env
 /.env
 /mart/private/*
+.DS_Store
+**/.DS_Store
