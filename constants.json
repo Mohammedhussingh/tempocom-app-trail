@@ -1,0 +1,15 @@
+{
+    "colt_status_details": {
+        "B": "Yes MT",
+        "A": "Pending MT",
+        "C": "Annulé par demandeur",
+        "D": "Delete MT", 
+        "N": "Nouveau",
+        "P": "En étude",
+        "T": "Rotation",
+        "X": "Nouveau Draft",
+        "Y": "Approuvé",
+        "Z": "Inconnu",
+        "R": "Refusé par I-CBE"
+    }
+}
